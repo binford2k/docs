@@ -12,15 +12,15 @@ By clicking the "Install" button in Step 1 of the instructions, you will be redi
 
 > Don't worry about the message saying the app is not authorized. As explained in the FAQs below, this is due to Salesforce's partner policies and not any deficiency in the Savannah CRM Integration package.
 
-Be sure to select `Intall for All Users` to make it available to your staff.
+Be sure to select `Install for All Users` to make it available to your staff.
 
-I takes a few minutes to isntall, but you will be promoted when it is done.
+It takes a few minutes to install, but you will be prompted when it is done.
 
 ![sfdc_installed.png](/images/sources/sfdc/sfdc_installed.png)
 
 ## Connect Savannah CRM to Salesforce
 
-The next step looks a lot like adding other sources. After Clicking the "Connect" button in Step 2 f the instructions you will be asked by Salesforce to approve giving Savannah CRM access. This enables Savannah CRM to retrieve data from Salesforce.
+The next step looks a lot like adding other sources. After Clicking the "Connect" button in Step 2 of the instructions you will be asked by Salesforce to approve giving Savannah CRM access. This enables Savannah CRM to retrieve data from Salesforce.
 
 ![sfdc_auth.png](/images/sources/sfdc/sfdc_auth.png)
 
