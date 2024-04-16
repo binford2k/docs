@@ -2,7 +2,7 @@
 
 If a Contribution is a community member giving back to your community, an Opportunity is a *potential* Contribution, one that might be made with the right resources and encouragement from you.
 
-Often when a Community Manager is talking with someone inthe community, a conversation comes up where that community member offers to make a contribution (such as writing a blog post or hosting a meetup) or where the Community Manager sees that the member is capable of making that kind of contribution and just needs to be encouraged to do it. All of these represent an Opportunity for a Contribution. However many times nothing comes of them because they are forgotten about and there is no follow-up.
+Often when a Community Manager is talking with someone in the community, a conversation comes up where that community member offers to make a contribution (such as writing a blog post or hosting a meetup) or where the Community Manager sees that the member is capable of making that kind of contribution and just needs to be encouraged to do it. All of these represent an Opportunity for a Contribution. However many times nothing comes of them because they are forgotten about and there is no follow-up.
 
 ![Opportunity Dashboard](/images/opportunities/dashboard.png)
 
